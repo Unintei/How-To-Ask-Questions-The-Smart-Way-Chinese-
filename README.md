@@ -1,6 +1,7 @@
 ---
 title: 提问的智慧
 createTime: 2025/10/07 
+github: https://github.com/Unintei/How-To-Ask-Questions-The-Smart-Way-Chinese-
 ---
 # 提问的智慧
 
