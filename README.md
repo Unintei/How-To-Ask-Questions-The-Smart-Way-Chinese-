@@ -1,9 +1,9 @@
 ---
-title: 提问的智慧
+title:  如何明智的提问
 createTime: 2025/10/07 
 github: https://github.com/Unintei/How-To-Ask-Questions-The-Smart-Way-Chinese-
 ---
-# 提问的智慧
+#  如何明智的提问
 
 **How To Ask Questions The Smart Way**  
 Copyright © 2001,2006,2014 Eric S. Raymond, Rick Moen  
